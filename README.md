@@ -168,6 +168,17 @@ a.p:hover span {
 <a href="20230401_034.JPG" data-lightbox="abc"><img src="20230401_034.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230401_035.JPG" data-lightbox="abc"><img src="20230401_035.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230401_036.JPG" data-lightbox="abc"><img src="20230401_036.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230401_037.JPG" data-lightbox="abc"><img src="20230401_037.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230401_038.JPG" data-lightbox="abc"><img src="20230401_038.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230401_039.JPG" data-lightbox="abc"><img src="20230401_039.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230401_040.JPG" data-lightbox="abc"><img src="20230401_040.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230401_041.JPG" data-lightbox="abc"><img src="20230401_041.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230401_042.JPG" data-lightbox="abc"><img src="20230401_042.JPG" alt="サンプル画像" width="900" /></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HiS5SZgmNLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<a href="https://youtube.com/shorts/uXd21wT0jJ4?feature=share" data-lightbox="abc"><img src="https://youtube.com/shorts/uXd21wT0jJ4?feature=share" alt="サンプル画像" width="900" /></a>
+
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
