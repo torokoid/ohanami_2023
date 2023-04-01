@@ -181,7 +181,7 @@ a.p:hover span {
 <iframe width="560" height="315" src="https://youtube.com/shorts/uXd21wT0jJ4?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 -->
 <br>
-<a href="https://youtube.com/shorts/uXd21wT0jJ4?feature=share"></a>
+<a href="https://youtube.com/shorts/uXd21wT0jJ4?feature=share" data-lightbox="abc"></a>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
