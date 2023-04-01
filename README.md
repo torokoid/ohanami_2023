@@ -130,7 +130,7 @@ a.p:hover span {
 	
 <h2><span class="snow">2023/04/01, 鬼怒川河川敷公園でお花見しました。</span></h2>
 
-<h2><span class="blue">お弁当は拓馬くん手作り唐揚げや明日香特製のおにぎり。</span></h2>
+<h2><span class="blue">風が吹くと桜吹雪が舞いました。</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WcmMhtqSTmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <a href="20230401_001.JPG" data-lightbox="abc"><img src="20230401_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230401_002.JPG" data-lightbox="abc"><img src="20230401_002.JPG" alt="サンプル画像" width="900" /></a>
