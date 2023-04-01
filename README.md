@@ -120,12 +120,9 @@ a.p:hover span {
 	
 <h1><span class="blue">掲載概要</span></h1>
 <div class="yellow"> 
-<h1>コロナ騒ぎが収まりつつある2023年2月、仕事のお休みをいただいてタイ旅行に行ってきました。<br>
-タイのコロナ収束状況はいまいち正確には伝わってはいませんでしたが、現地情報ではほぼ問題なさそうとの事で旅行は決行。<br>
-入国に関してはワクチン接種証明の提示で、スムーズに通れました。<br>
-この画面の背景は昔のタイの状況ですが、今でも田舎に行くとこれに似た状態で、違いは牛車が車になっている辺りだけでした。<br>
-では、以下バンコクの宿の裏側に流れていた川の写真から、順繰りに訪れた場所の説明を綴っていきます。<br>
-取り止めのない話に終始しますが、ご覧いただければ幸いです。</h1></div>
+<h1>すっかり春めいた2023年4月1日、鬼怒川河川敷公園でお花見。<br>
+お弁当は拓馬くんの唐揚げや明日香特製のおにぎり。<br>
+アキも車に乗せてお出かけしました。</h1></div>
 	
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -134,6 +131,7 @@ a.p:hover span {
 <h2><span class="snow">2023/04/01, 鬼怒川河川敷公園でお花見しました。</span></h2>
 
 <h2><span class="blue">お弁当は拓馬くん手作り唐揚げや明日香特製のおにぎり。</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WcmMhtqSTmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <a href="20230401_001.JPG" data-lightbox="abc"><img src="20230401_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230401_002.JPG" data-lightbox="abc"><img src="20230401_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230401_003.JPG" data-lightbox="abc"><img src="20230401_003.JPG" alt="サンプル画像" width="900" /></a>
