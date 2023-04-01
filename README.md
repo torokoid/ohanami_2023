@@ -122,7 +122,7 @@ a.p:hover span {
 <div class="yellow"> 
 <h1>すっかり春めいた2023年4月1日、鬼怒川河川敷公園でお花見。<br>
 お弁当は拓馬くんの唐揚げや明日香特製のおにぎり。<br>
-アキも車に乗せてお出かけしました。</h1></div>
+アキ君も車に乗せてお出かけ。</h1></div>
 	
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
